@@ -3,8 +3,8 @@
 [cm  ]
 [bg  storage="Slide1.jpg"  time="1000"  ]
 [playse  volume="100"  time="1000"  buf="0"  storage="Narration_Vocal02.ogg"  ]
-[glink  color="black"  storage="scene1.ks"  size="20"  text="English"  x="350"  y="200"  width="400"  height="20"  target="*English"  ]
-[glink  color="black"  storage="scene1.ks"  size="20"  text="Spanish"  x="350"  y="300"  width="400"  height="20"  target="*Spanish"  ]
+[glink  color="black"  storage="scene1.ks"  size="20"  text="English"  x="146"  y="151"  width="234"  height="20"  target="*English"  _clickable_img=""  ]
+[glink  color="black"  storage="scene1.ks"  size="20"  text="Spanish"  x="146"  y="252"  width="234"  height="20"  target="*Spanish"  _clickable_img=""  ]
 [s  ]
 *Spanish
 
