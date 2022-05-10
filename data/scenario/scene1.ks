@@ -2,8 +2,8 @@
 
 [cm  ]
 [bg  storage="Slide1.jpg"  time="1000"  ]
-[glink  color="black"  storage="scene1.ks"  size="20"  text="English"  x="350"  y="200"  width="400"  height="0"  target="*English"  ]
-[glink  color="black"  storage="scene1.ks"  size="20"  text="Spanish"  x="350"  y="300"  width="400"  height="0"  target="*Spanish"  ]
+[glink  color="black"  storage="scene1.ks"  size="20"  text="English"  x="350"  y="200"  width="400"  height="20"  target="*English"  ]
+[glink  color="black"  storage="scene1.ks"  size="20"  text="Spanish"  x="350"  y="300"  width="400"  height="20"  target="*Spanish"  ]
 [s  ]
 *Spanish
 
