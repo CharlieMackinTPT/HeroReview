@@ -1,6 +1,0 @@
-# Reading Files
-include:
-  - .htaccess
-  - _pages
-  - "*.ks"
-  - files
